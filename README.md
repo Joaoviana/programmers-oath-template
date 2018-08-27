@@ -17,6 +17,7 @@ ___
 
 I will not produce harmful code. 
 I will not intentionally write code with bugs.
+
 This means: Do your best.
 
 [the first promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIJzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36NgPu9OyRM&usg=AOvVaw0ou3BcQNAflHJjk6fPJw7c)
@@ -67,8 +68,6 @@ I will fearlessly and relentlessly improve my creations at every opportunity. I 
 
 This means: I will never make the code worse.
 
-
-
 [the fifth promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=9&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIPzAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqEeYlLmrHOc&usg=AOvVaw1yiXH31qYs202Vv6feV5Qs)
 
 [TOP](#the-programmers-oath)
@@ -77,11 +76,9 @@ ___
 
 ## Sixth Promise:
 
-
 I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity.
 
 This means: well, what was just stated above. 
-
 
 [the sixth promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=7&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIOTAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQMku1-fDYo&usg=AOvVaw0gaYBLsB7tkoj5DVLMS-gI)
 
@@ -90,7 +87,6 @@ This means: well, what was just stated above.
 ___
 
 ## Seventh Promise:
-
 
 I will continuously ensure that others can cover for me, and that I can cover for them.
 
